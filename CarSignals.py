@@ -52,8 +52,9 @@ while(True):
             #print('Brake Pedal Position = ' + str(int(round(brakePerc))) + '%')
 
     print('\n')
-    print('Speed = ' + str(speed) + ' mph')
-    print('Steering Angle = ' + str(adjAngle) + ' degrees to the ' + Direction)
-    print('Brake Pedal Position = ' + str(int(round(brakePerc))) + '%')
-    print('Accelerator Pedal Position = ' + str(int(round(accPerc))) + '%')
-    
+    print('   Speed = ' + str(speed) + ' mph')
+    print('   Steering Angle = ' + str(adjAngle) + ' degrees to the ' + Direction)
+    print('   Brake Pedal Position = ' + str(int(round(brakePerc))) + '%')
+    print('   Accelerator Pedal Position = ' + str(int(round(accPerc))) + '%')
+    print('\n')
+    print('\n')
