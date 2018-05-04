@@ -1,3 +1,8 @@
+#This script works only for GMC Terrain, not Ford
+#To use, plug panda into OBDII port, connect usb male to male from panda to computer
+#Start virtual environment if using (otherwise, make sure Panda library installed)
+#from terminal, run python CarSignals.py
+
 from panda import Panda
 
 panda = Panda()
