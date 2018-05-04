@@ -1,4 +1,5 @@
 '''
+Only works for Ford Focus (possibly other Ford vehicles, but untested)
 Must have Panda library installed to use
 For this project, we installed Panda on a virtual environment and ran from there
 '''
